@@ -1,0 +1,3 @@
+D:/Al-Azhar_Sheets/Sheet_2/J-Primes_from_1_to_n/cmake-build-debug/CMakeFiles/J_Primes_from_1_to_n.dir
+D:/Al-Azhar_Sheets/Sheet_2/J-Primes_from_1_to_n/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Al-Azhar_Sheets/Sheet_2/J-Primes_from_1_to_n/cmake-build-debug/CMakeFiles/rebuild_cache.dir

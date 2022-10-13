@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "J_Primes_from_1_to_n",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "J_Primes_from_1_to_n::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-J_Primes_from_1_to_n-Debug-d66723d83562dae672c1.json",
+					"name" : "J_Primes_from_1_to_n",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Al-Azhar_Sheets/Sheet_2/J-Primes_from_1_to_n/cmake-build-debug",
+		"source" : "D:/Al-Azhar_Sheets/Sheet_2/J-Primes_from_1_to_n"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
