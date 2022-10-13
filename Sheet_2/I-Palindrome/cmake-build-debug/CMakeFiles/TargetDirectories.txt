@@ -1,0 +1,3 @@
+D:/Al-Azhar ICPC Sheets Solutions/Sheet_2/I-Palindrome/cmake-build-debug/CMakeFiles/I_Palindrome.dir
+D:/Al-Azhar ICPC Sheets Solutions/Sheet_2/I-Palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Al-Azhar ICPC Sheets Solutions/Sheet_2/I-Palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
