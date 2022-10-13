@@ -9,13 +9,13 @@ void check(int num) {
             break;
         }
     }
-    if(flag == false)
+    if(!flag)
         cout << num << " ";
 }
 int main() {
     int n;
     cin >> n;
-    for(int i = 2; i < n; i++) {
+    for(int i = 2; i <= n; i++) {
         check(i);
     }
     return 0;
