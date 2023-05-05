@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Problem_Solving/Al-Azhar_Sheets/Sheet-2/cmake-build-debug"
+			"value" : "d:/Problem-Solving/Al-Azhar_Sheets/Sheet-2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Problem_Solving/Al-Azhar_Sheets/Sheet-2"
+			"value" : "D:/Problem-Solving/Al-Azhar_Sheets/Sheet-2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Problem_Solving/Al-Azhar_Sheets/Sheet-2/cmake-build-debug"
+			"value" : "D:/Problem-Solving/Al-Azhar_Sheets/Sheet-2/cmake-build-debug"
 		},
 		{
 			"name" : "Sheet_2_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Problem_Solving/Al-Azhar_Sheets/Sheet-2"
+			"value" : "D:/Problem-Solving/Al-Azhar_Sheets/Sheet-2"
 		}
 	],
 	"kind" : "cache",

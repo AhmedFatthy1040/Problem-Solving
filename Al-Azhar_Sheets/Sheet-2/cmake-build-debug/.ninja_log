@@ -1,11 +1,8 @@
 # ninja log v5
-4	1224	7048174816207191	CMakeFiles/Sheet_2.dir/L-GCD.cpp.obj	df78c2f217ee19
-1154	1267	7048175779735688	Sheet_2.exe	2e9433a1955da1d5
-11	1235	7048174816319203	CMakeFiles/Sheet_2.dir/M-LuckyNumbers.cpp.obj	de807ae3633d24a2
-3	1153	7048175778481617	CMakeFiles/Sheet_2.dir/main.cpp.obj	f6644e44fd8b6c51
-25	89	7048178484044440	CMakeFiles/Sheet_2.dir/I-Palindrome.cpp.obj	3b62fdefd2378cfb
-20	1199	7048178495141369	CMakeFiles/Sheet_2.dir/J-PrimesFrom1toN.cpp.obj	6b4b1e886b26f416
-9	1200	7048178495141369	CMakeFiles/Sheet_2.dir/main.cpp.obj	f6644e44fd8b6c51
-14	1204	7048178495182327	CMakeFiles/Sheet_2.dir/K-Divisors.cpp.obj	46c356d18dec2931
-3	1219	7048178495343336	CMakeFiles/Sheet_2.dir/L-GCD.cpp.obj	df78c2f217ee19
-1219	1323	7048178496339796	Sheet_2.exe	81bec06048261847
+28	1868	7049993190195446	CMakeFiles/Sheet_2.dir/L-GCD.cpp.obj	70312f9b5a09afdd
+1069	1170	7050023088159179	Sheet_2.exe	b72a28a8546230e0
+16	1855	7049993190063539	CMakeFiles/Sheet_2.dir/K-Divisors.cpp.obj	188c7ea097e292ac
+3	1069	7050023087175037	CMakeFiles/Sheet_2.dir/main.cpp.obj	c8859084b2286615
+11	1858	7049993190083477	CMakeFiles/Sheet_2.dir/I-Palindrome.cpp.obj	cb51584466770b0f
+22	1852	7049993190033473	CMakeFiles/Sheet_2.dir/J-PrimesFrom1toN.cpp.obj	c7ea7214ad4160a7
+4	1058	7050010571814311	CMakeFiles/Sheet_2.dir/T-Shape2.cpp.obj	9d89749ab4f67d9a
