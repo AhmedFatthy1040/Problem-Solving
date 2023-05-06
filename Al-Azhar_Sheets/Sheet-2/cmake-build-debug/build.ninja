@@ -98,6 +98,13 @@ build CMakeFiles/Sheet_2.dir/U-SomeSums.cpp.obj: CXX_COMPILER__Sheet_2_Debug D$:
   OBJECT_DIR = CMakeFiles\Sheet_2.dir
   OBJECT_FILE_DIR = CMakeFiles\Sheet_2.dir
 
+build CMakeFiles/Sheet_2.dir/W-Shape3.cpp.obj: CXX_COMPILER__Sheet_2_Debug D$:/Problem-Solving/Al-Azhar_Sheets/Sheet-2/W-Shape3.cpp || cmake_object_order_depends_target_Sheet_2
+  DEP_FILE = CMakeFiles\Sheet_2.dir\W-Shape3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -ID:/Problem-Solving/Al-Azhar_Sheets/Sheet-2/.
+  OBJECT_DIR = CMakeFiles\Sheet_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Sheet_2.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Sheet_2
@@ -106,7 +113,7 @@ build CMakeFiles/Sheet_2.dir/U-SomeSums.cpp.obj: CXX_COMPILER__Sheet_2_Debug D$:
 #############################################
 # Link the executable Sheet_2.exe
 
-build Sheet_2.exe: CXX_EXECUTABLE_LINKER__Sheet_2_Debug CMakeFiles/Sheet_2.dir/L-GCD.cpp.obj CMakeFiles/Sheet_2.dir/main.cpp.obj CMakeFiles/Sheet_2.dir/K-Divisors.cpp.obj CMakeFiles/Sheet_2.dir/J-PrimesFrom1toN.cpp.obj CMakeFiles/Sheet_2.dir/I-Palindrome.cpp.obj CMakeFiles/Sheet_2.dir/T-Shape2.cpp.obj CMakeFiles/Sheet_2.dir/U-SomeSums.cpp.obj
+build Sheet_2.exe: CXX_EXECUTABLE_LINKER__Sheet_2_Debug CMakeFiles/Sheet_2.dir/L-GCD.cpp.obj CMakeFiles/Sheet_2.dir/main.cpp.obj CMakeFiles/Sheet_2.dir/K-Divisors.cpp.obj CMakeFiles/Sheet_2.dir/J-PrimesFrom1toN.cpp.obj CMakeFiles/Sheet_2.dir/I-Palindrome.cpp.obj CMakeFiles/Sheet_2.dir/T-Shape2.cpp.obj CMakeFiles/Sheet_2.dir/U-SomeSums.cpp.obj CMakeFiles/Sheet_2.dir/W-Shape3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Sheet_2.dir

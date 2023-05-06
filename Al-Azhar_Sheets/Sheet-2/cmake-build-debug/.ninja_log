@@ -1,8 +1,9 @@
 # ninja log v5
 28	1868	7049993190195446	CMakeFiles/Sheet_2.dir/L-GCD.cpp.obj	70312f9b5a09afdd
-1069	1170	7050023088159179	Sheet_2.exe	b72a28a8546230e0
+1163	1271	7050851753446738	Sheet_2.exe	3e96ed31b7929a61
 16	1855	7049993190063539	CMakeFiles/Sheet_2.dir/K-Divisors.cpp.obj	188c7ea097e292ac
-3	1069	7050023087175037	CMakeFiles/Sheet_2.dir/main.cpp.obj	c8859084b2286615
+9	1378	7050847781355880	CMakeFiles/Sheet_2.dir/U-SomeSums.cpp.obj	275d3587fcf8a677
+4	1163	7050851752401200	CMakeFiles/Sheet_2.dir/main.cpp.obj	c8859084b2286615
 11	1858	7049993190083477	CMakeFiles/Sheet_2.dir/I-Palindrome.cpp.obj	cb51584466770b0f
 22	1852	7049993190033473	CMakeFiles/Sheet_2.dir/J-PrimesFrom1toN.cpp.obj	c7ea7214ad4160a7
 4	1058	7050010571814311	CMakeFiles/Sheet_2.dir/T-Shape2.cpp.obj	9d89749ab4f67d9a
